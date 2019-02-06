@@ -1,0 +1,28 @@
+{
+  "name": "png-chef",
+  "description": "Grunt configuration with spritesmith.",
+  "version": "1.0.0",
+  "keywords": [
+    "spritesmith",
+    "grunt"
+  ],
+  "homepage": "https://github.com/ethcrawford/png-chef#readme",
+  "bugs": {
+    "url": "https://github.com/ethcrawford/png-chef/issues",
+    "email": "ethcrawford@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethcrawford/png-chef.git"
+  },
+  "author": "Ethan Crawford <ethcrawford@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-spritesmith": "^6.6.2"
+  }
+}

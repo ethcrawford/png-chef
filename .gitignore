@@ -1,0 +1,4 @@
+node_modules/
+src/*.png
+dist/*.scss
+dist/*.png
